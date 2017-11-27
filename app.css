@@ -4,6 +4,9 @@ h2 {
    font-family: Indie Flower;
    font-size: 30px;
 }
+a {
+   text-align:center;
+}
 p {
     color: #FFB88C;
     font-family: Roboto Slab;  
