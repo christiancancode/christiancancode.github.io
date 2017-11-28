@@ -11,6 +11,8 @@ p {
     color: #FFB88C;
     font-family: Roboto Slab;  
     font-size: 16px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 img {
     display: block;
